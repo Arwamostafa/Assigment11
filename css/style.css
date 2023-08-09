@@ -8,9 +8,7 @@ body{
     background-color: #1e202b;
     box-shadow:5px 10px 18px #0202026f;
 }
-/* .navbar .navbar-brand {
-    margin: 0 50px;
-} */
+
 .navbar .navbar-brand .logoContent {
     float: right;
     
@@ -138,10 +136,8 @@ footer .sarchinpute .row  .part2 .fa-brands {
 color:#ffffff;
 border-radius: 50%;
 }
- footer .sarchinpute .row  .part2 .fa-square-twitter{
-   
-} 
-footer .sarchinpute .container .par{ */
+ 
+footer .sarchinpute .container .par{ 
     font-size: smaller;
 }
 
